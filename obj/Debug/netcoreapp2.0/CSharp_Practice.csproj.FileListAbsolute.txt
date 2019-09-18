@@ -1,0 +1,10 @@
+/Users/krnjin/Desktop/c#/CSharp_Practice/bin/Debug/netcoreapp2.0/CSharp_Practice.deps.json
+/Users/krnjin/Desktop/c#/CSharp_Practice/bin/Debug/netcoreapp2.0/CSharp_Practice.runtimeconfig.json
+/Users/krnjin/Desktop/c#/CSharp_Practice/bin/Debug/netcoreapp2.0/CSharp_Practice.runtimeconfig.dev.json
+/Users/krnjin/Desktop/c#/CSharp_Practice/bin/Debug/netcoreapp2.0/CSharp_Practice.dll
+/Users/krnjin/Desktop/c#/CSharp_Practice/bin/Debug/netcoreapp2.0/CSharp_Practice.pdb
+/Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.csproj.CoreCompileInputs.cache
+/Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.AssemblyInfoInputs.cache
+/Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.AssemblyInfo.cs
+/Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.dll
+/Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.pdb

@@ -8,3 +8,4 @@
 /Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.AssemblyInfo.cs
 /Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.dll
 /Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.pdb
+/Users/krnjin/Desktop/c#/CSharp_Practice/obj/Debug/netcoreapp2.0/CSharp_Practice.csprojAssemblyReference.cache

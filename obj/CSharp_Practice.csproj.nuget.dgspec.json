@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/krnjin/Desktop/c#/CSharp_Practice/CSharp_Practice.csproj": {}
+  },
+  "projects": {
+    "/Users/krnjin/Desktop/c#/CSharp_Practice/CSharp_Practice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krnjin/Desktop/c#/CSharp_Practice/CSharp_Practice.csproj",
+        "projectName": "CSharp_Practice",
+        "projectPath": "/Users/krnjin/Desktop/c#/CSharp_Practice/CSharp_Practice.csproj",
+        "packagesPath": "/Users/krnjin/.nuget/packages/",
+        "outputPath": "/Users/krnjin/Desktop/c#/CSharp_Practice/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/krnjin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
